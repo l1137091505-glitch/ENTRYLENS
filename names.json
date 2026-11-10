@@ -1,0 +1,9 @@
+{
+  "chosen": "ENTRYLENS",
+  "reason": "A coined name that describes inspecting an ERC-4337 entry path without claiming certification.",
+  "checks": [
+    "Exact searches for EntryLens with ERC-4337 and blockchain wallet returned no obvious matching product in the reviewed results.",
+    "SPECORA, KernelProof, NodeRef and Opsynt were rejected because existing products or services use those names."
+  ],
+  "note": "This is a practical naming check, not a trademark clearance."
+}
